@@ -128,14 +128,42 @@ Sep 29
                                             to crowd trouble]
   Union             3-0 Kortrijk
 
+
+Montpellier   0-2 Saint-Etienne [abandoned at 0-2 in 62' due to
+                                 crowd trouble; result stood]
+Strasbourg    2-1 Toulouse
+
+Progrès               abd. RFCU Luxembourg       [abandoned at 0-0 in 31' due to
+                                                  unplayable pitch]
+Mondorf               1-1 Strassen
+
+▪ Round 8 Replay
+Oct 30
+Progrès               1-1 RFCU Luxembourg
+
+Swift                 awd. Mondorf               [awarded 0-3; Swift dns]
+
+-- change to awd. to 0-3 awd. 5-0 awd.
+     or get/use score from match status note ??
+
 note - match status note CANNOT overlap with next match e.g.
+
 
 [Sep 29]
   Antwerp           awd Beerschot         [awarded 5-0; abandoned at 4-0 in 75' due
   Union             3-0 Kortrijk            to crowd trouble]
+
+Montpellier   0-2 Saint-Etienne [abandoned at 0-2 in 62' due to
+Strasbourg    2-1 Toulouse       crowd trouble; result stood]
+
+Progrès               abd RFCU Luxembourg       [abandoned at 0-0 in 31' due to
+Mondorf               1-1 Strassen               unplayable pitch]
+Oct 30
+Progrès               1-1 RFCU Luxembourg       [replay]
 ```
 
 - [ ]  use `awd` or `awd.`  ??
+- [ ]  use `abd` or `abd.`  ??
 
 
 
