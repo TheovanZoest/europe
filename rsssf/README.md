@@ -74,7 +74,7 @@ or use <>  (diamond) for  end of property ??
 ==== Playoff 1
 ==== Playoff 2
 ==== Relegation Playoff
-===== Promotion/Relegation Playoff
+=== Promotion/Relegation Playoff   ## note - use same level as Regular/Playoff Stage!!!
 
 == Cup
 

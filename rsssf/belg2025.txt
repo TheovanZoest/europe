@@ -21,9 +21,9 @@
 ##   for now "hard code" known stages that start auto-folding sections into rounds e.g.
 ##     -- Regular Stage
 ##     -- Playoff Stage
-##     -- Playoff 1
-##     -- Playoff 2
-##     -- Relegation Playoff
+##       --- Playoff 1
+##       --- Playoff 2
+##       --- Relegation Playoff
 ##     -- Promotion/Relegation Playoff
 ##
 ##  e.g.
@@ -33,7 +33,7 @@
 ##   ▪ Playoff Stage, Playoff 1, Round 1
 ##   ...
 ##   ▪ Playoff Stage, Relegation Playoff, Round 1
-##   ▪ Playoff Stage, Relegation Playoff, Promotion/Relegation Playoff, First Leg
+##   ▪ Promotion/Relegation Playoff, First Leg
 ##   ...
 ##  == Cup
 
@@ -706,7 +706,7 @@ Beerschot         4-2 Cercle Brugge
 Kortrijk           2-2 Sint-Truiden
 
 
-===== Promotion/Relegation Playoff
+=== Promotion/Relegation Playoff
 
 ▪ First Leg
 May 18
