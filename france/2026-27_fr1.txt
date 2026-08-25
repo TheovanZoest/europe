@@ -16,9 +16,9 @@
            OGC Nice                v FC Lorient               0-0
            Toulouse FC             v Olympique Lyonnais       0-2 (0-0)
   Sun Aug 23
-    15:00  Angers SCO              v Lille OSC
-    17:15  Le Havre AC             v AS Monaco FC
-    20:45  Paris Saint-Germain FC  v Stade Rennais FC 1901
+    15:00  Angers SCO              v Lille OSC                0-2 (0-2)
+    17:15  Le Havre AC             v AS Monaco FC             0-1 (0-1)
+    20:45  Stade Rennais FC 1901   v Paris Saint-Germain FC   2-2 (2-0)
 
 
 ▪ Matchday 2
@@ -310,7 +310,7 @@
 ▪ Matchday 23
   Sat Mar 6
            Le Havre AC             v OGC Nice
-           Stade Rennais FC 1901   v Paris Saint-Germain FC
+           Paris Saint-Germain FC  v Stade Rennais FC 1901
            Racing Club de Lens     v RC Strasbourg Alsace
            Toulouse FC             v Le Mans FC
            ES Troyes AC            v FC Lorient
